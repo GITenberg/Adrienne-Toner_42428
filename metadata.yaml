@@ -1,0 +1,32 @@
+_repo: Adrienne-Toner_42428
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42428-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sedgwick, Anne Douglas
+    birthdate: 1873
+    deathdate: 1935
+    gutenberg_agent_id: '2634'
+    url: http://www.gutenberg.org/2009/agents/2634
+    wikipedia: http://en.wikipedia.org/wiki/Anne_Douglas_Sedgwick
+description: ''
+gutenberg_issued: '2013-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42428'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Marriage -- Fiction'
+- !lcsh 'World War, 1914-1918 -- England -- Fiction'
+- !lcsh 'England -- Social life and customs -- 20th century -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Americans -- England -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+title: 'Adrienne Toner: A Novel'
+url: http://www.gutenberg.org/ebooks/42428
